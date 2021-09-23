@@ -1,7 +1,7 @@
 {
 	"displayName": "CompassHeadings",
-	"version": "1.0",
-	"buildNumber": 3,
+	"version": "2.0",
+	"buildNumber": 4,
 	"description": "Adds headings in degrees to the compass.",
 	"author": "Azuvector",
 	"authorURL": "",
@@ -9,10 +9,7 @@
 	"gameVersion": "1.1.0",
 	"manifest": [
 		"/Game/UI/Mech/HUD_Compass.uasset",
-		"/Game/UI/Mech/Textures/Compass/compass_gauge.uasset",
-		"/Game/UI/Mech/Textures/Compass/compass_gauge_text_cardinals.uasset",
-		"/Game/UI/Mech/Textures/Compass/compass_gauge_text_headings.uasset",
-		"/Game/UI/Mech/Textures/Compass/compass_gauge_text_headings2.uasset"
+		"/Game/UI/Mech/Textures/Compass/compass_gauge.uasset"
 	],
 	"steamPublishedFileId": 2541842757,
 	"steamLastSubmittedBuildNumber": 3,
