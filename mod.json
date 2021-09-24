@@ -1,17 +1,17 @@
 {
-	"displayName": "CompassHeadings",
-	"version": "2.0",
-	"buildNumber": 11,
-	"description": "Adds headings in degrees to the compass, as well as intercardinal directions.",
-	"author": "Azuvector",
-	"authorURL": "",
-	"defaultLoadOrder": 0,
-	"gameVersion": "1.1.0",
-	"manifest": [
-		"/Game/UI/Mech/HUD_Compass.uasset",
-		"/Game/UI/Mech/Textures/Compass/compass_gauge.uasset"
-	],
-	"steamPublishedFileId": 2541842757,
-	"steamLastSubmittedBuildNumber": 3,
-	"steamModVisibility": "Public"
+   "displayName" : "CompassHeadings",
+   "version" : "2.0",
+   "buildNumber" : 12,
+   "description" : "Adds headings in degrees to the compass, as well as intercardinal directions.",
+   "author" : "Azuvector",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/UI/Mech/HUD_Compass.uasset",
+      "/Game/UI/Mech/Textures/Compass/compass_gauge.uasset"
+   ],
+   "steamPublishedFileId" : 2541842757,
+   "steamLastSubmittedBuildNumber" : 3,
+   "steamModVisibility" : "Public"
 }
