@@ -1,8 +1,8 @@
 {
 	"displayName": "CompassHeadings",
 	"version": "2.0",
-	"buildNumber": 9,
-	"description": "Adds headings in degrees to the compass.",
+	"buildNumber": 11,
+	"description": "Adds headings in degrees to the compass, as well as intercardinal directions.",
 	"author": "Azuvector",
 	"authorURL": "",
 	"defaultLoadOrder": 0,
