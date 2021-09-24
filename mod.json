@@ -1,7 +1,7 @@
 {
 	"displayName": "CompassHeadings",
 	"version": "2.0",
-	"buildNumber": 6,
+	"buildNumber": 9,
 	"description": "Adds headings in degrees to the compass.",
 	"author": "Azuvector",
 	"authorURL": "",
